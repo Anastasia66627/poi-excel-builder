@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afe3e5db-a46a-4f40-9c4b-f34b758549ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/glazer/poiexcelbuilder/ExcelBuilder.java" afterDir="false" />
+    <list default="true" id="afe3e5db-a46a-4f40-9c4b-f34b758549ef" name="Changes" comment="Update version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +13,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Anastasia66627"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Anastasia66627/poi-excel-builder.git",
+    "accountId": "714d15a1-df9b-4dbb-be86-e877026418dc"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2mV3cdQdmhXQfQFSsPiXkfxLZO2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,7 +44,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.poi-excel-builder [-X,deploy].executor": "Run",
+    "Maven.poi-excel-builder [-v].executor": "Run",
     "Maven.poi-excel-builder [clean].executor": "Run",
+    "Maven.poi-excel-builder [compile].executor": "Run",
     "Maven.poi-excel-builder [deploy].executor": "Run",
     "Maven.poi-excel-builder [install].executor": "Run",
     "Maven.poi-excel-builder [package].executor": "Run",
@@ -52,6 +66,14 @@
       <recent name="ru.glazer.poiexcelbuilder" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn deploy" />
+      <command value="mvn -v" />
+      <command value="mvn clean" />
+      <command value="mvn -X deploy" />
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,6 +83,57 @@
       <option name="presentableId" value="Default" />
       <updated>1727148016278</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init commit">
+      <option name="closed" value="true" />
+      <created>1727408613604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727408613604</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add distribution management">
+      <option name="closed" value="true" />
+      <created>1727410673236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727410673236</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change repository id">
+      <option name="closed" value="true" />
+      <created>1727411420352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727411420353</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update version">
+      <option name="closed" value="true" />
+      <created>1727670074434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727670074434</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit" />
+    <MESSAGE value="Add distribution management" />
+    <MESSAGE value="Change repository id" />
+    <MESSAGE value="Update version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update version" />
   </component>
 </project>

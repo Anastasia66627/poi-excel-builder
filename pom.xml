@@ -31,7 +31,7 @@
 
     <distributionManagement>
         <repository>
-            <id>poi-excel-builder-github-package</id>
+            <id>github</id>
             <name>GitHub Anastasia66627 Apache Maven Packages</name>
             <url>https://maven.pkg.github.com/Anastasia66627/poi-excel-builder</url>
         </repository>
